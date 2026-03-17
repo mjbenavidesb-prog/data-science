@@ -1,2 +1,2 @@
 # data-science
-Data Science course at Universidad del Pacífico
+Data Science with python course at Universidad del Pacífico
